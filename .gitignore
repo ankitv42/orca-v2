@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ORCA
+.env
+venv/
+data/*.db
+data/*.sqlite
+*.log
+.streamlit/secrets.toml
